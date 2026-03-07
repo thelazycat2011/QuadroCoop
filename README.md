@@ -45,7 +45,7 @@
 
 ​Geometry Dash: v2.2081
 
-​Geode: v3.0.0 or higher
+​Geode: v5.3.0
 
 ​Credits
 
