@@ -8,7 +8,7 @@
   },
   "id":          "derland6666.quadrocoop",
   "name":        "QuadroCoop",
-  "version":     "2.0.0",
+  "version":     "1.0.0",
   "developer":   "Derland6666",
   "description": "4-player local co-op for Geometry Dash platformer mode. Supports P1-P4 with independent keybinds, trigger cloning, dual portal logic, and an in-game settings menu.",
   "repository":  "https://github.com/Derland6666/QuadroCoop",
