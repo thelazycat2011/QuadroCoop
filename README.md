@@ -11,17 +11,27 @@
 ​Controls
 
 ​PC (Keyboard)
+
 ​P1: A (Left), W (Jump), D (Right)
+
 ​P2: Left Arrow (Left), Up Arrow (Jump), Right Arrow (Right)
+
 ​P3: J (Left), I (Jump), L (Right)
+
 ​P4: F (Left), T (Jump), H (Right)
+
 ​Mobile (Touch)
 
 ​The screen is divided into a 2×2 quadrant grid:
+
 ​Top-Left: Player 1
+
 ​Top-Right: Player 2
+
 ​Bottom-Left: Player 3
+
 ​Bottom-Right: Player 4
+
 ​Each quadrant supports tap-to-jump and side-tap for movement.
 ​Installation
 
@@ -31,8 +41,13 @@
 ​Restart the game.
 
 ​Requirements
+
 ​Geometry Dash: v2.2081
+
 ​Geode: v3.0.0 or higher
+
 ​Credits
+
 ​Developer: Derland6666
+
 ​Built with the Geode SDK.
